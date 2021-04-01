@@ -1,0 +1,20 @@
+.title {
+    color: snow;
+    background-color: #17071491;
+    padding: 20px;
+    border-radius: 60px;
+    margin: 50px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+#card {
+    width: 500px;
+}
+
+.card {
+    max-width: none!important;
+}

@@ -1,0 +1,27 @@
+.title {
+    color: snow;
+    background-color: #17071491;
+    padding: 20px;
+    border-radius: 60px;
+    margin: 50px;
+}
+
+main > div {
+    width: 60vw;
+}
+form {
+    background-color: #696969c9;
+    padding: 20px;
+    border-radius: 25px;
+
+}
+
+label {
+    color: white;
+}
+
+form>div:last-child {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
